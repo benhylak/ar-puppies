@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Dog bowl
+Author: Poly by Google
+URL: https://poly.google.com/view/cMk8S7aDHny
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dog bowl
+Author: Poly by Google
+URL: https://poly.google.com/view/eA4LSFu4lj1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dog bowl
+Author: Poly by Google
+URL: https://poly.google.com/view/a3frygyTZwp
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dog bowl
+Author: Poly by Google
+URL: https://poly.google.com/view/1jy--7G3tyW
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dog Bowl
+Author: Ian MacGillivray
+URL: https://poly.google.com/view/9BmnOw0tQ41
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
